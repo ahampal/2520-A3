@@ -1,0 +1,6 @@
+#ignore the following:
+*.a
+*.o
+
+#but not:
+!libHashTableAPI.a
