@@ -2,7 +2,6 @@ Name:
 Amit Hampal
 
 Student #:
-0964514
 
 Description:
 This program compares two text files (a "dictionary" text file and the 
